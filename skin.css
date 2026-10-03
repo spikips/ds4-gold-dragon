@@ -20,13 +20,13 @@
 }
 
 .custom .stick.left {
-    left: 278px;
-    top: 437px;
+    left: 275px;
+    top: 436px;
 }
 
 .custom .stick.right {
-    left: 606px;
-    top: 437px;
+    left: 603px;
+    top: 436px;
 }
 
 .custom .button,
@@ -41,30 +41,30 @@
 
 .custom .y {
     left: 788px;
-    top: 271px;
-    width: 62px;
-    height: 61px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/triangle_button.png") center / 62px 61px no-repeat;
+    top: 272px;
+    width: 61px;
+    height: 60px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/triangle_button.png") center / 61px 60px no-repeat;
 }
 
 .custom .b {
-    left: 857px;
-    top: 337px;
+    left: 856px;
+    top: 338px;
     width: 62px;
     height: 62px;
     background: url("https://spikips.github.io/ds4-gold-dragon/circle_button.png") center / 62px 62px no-repeat;
 }
 
 .custom .a {
-    left: 788px;
-    top: 404px;
+    left: 787px;
+    top: 405px;
     width: 62px;
     height: 62px;
     background: url("https://spikips.github.io/ds4-gold-dragon/cross_button.png") center / 62px 62px no-repeat;
 }
 
 .custom .x {
-    left: 717px;
+    left: 716px;
     top: 337px;
     width: 62px;
     height: 62px;
@@ -104,32 +104,32 @@
 }
 
 .custom .bumper.left {
-    left: 140px;
-    top: 214px;
-    width: 119px;
-    height: 25px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/l1.png") center / 119px 25px no-repeat;
+    left: 141px;
+    top: 198px;
+    width: 145px;
+    height: 26px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/l1.png") center / 145px 26px no-repeat;
 }
 
 .custom .bumper.right {
-    left: 742px;
-    top: 212px;
-    width: 123px;
-    height: 24px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/r1.png") center / 123px 24px no-repeat;
+    left: 733px;
+    top: 200px;
+    width: 145px;
+    height: 22px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/r1.png") center / 145px 22px no-repeat;
 }
 
 .custom .back {
-    left: 286px;
-    top: 240px;
-    width: 27px;
-    height: 45px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/share_button.png") center / 27px 45px no-repeat;
+    left: 285px;
+    top: 241px;
+    width: 26px;
+    height: 46px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/share_button.png") center / 26px 46px no-repeat;
 }
 
 .custom .start {
-    left: 697px;
-    top: 240px;
+    left: 696px;
+    top: 242px;
     width: 24px;
     height: 45px;
     background: url("https://spikips.github.io/ds4-gold-dragon/options_button.png") center / 24px 45px no-repeat;

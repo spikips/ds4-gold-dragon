@@ -83,23 +83,23 @@
     top: 196px;
     width: 39px;
     height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/bottom_dpad.png") center / 39px 48px no-repeat;
+    background: url("https://spikips.github.io/ds4-gold-dragon/bottom_dpad.png?v=4") center / 39px 48px no-repeat;
 }
 
 .custom .face.left {
-    left: 91px;
-    top: 155px;
-    width: 39px;
-    height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/left_dpad.png") center / 39px 48px no-repeat;
+    left: 87px;
+    top: 160px;
+    width: 48px;
+    height: 39px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/left_dpad.png?v=4") center / 48px 39px no-repeat;
 }
 
 .custom .face.right {
-    left: 183px;
-    top: 155px;
-    width: 39px;
-    height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/right_dpad.png") center / 39px 48px no-repeat;
+    left: 179px;
+    top: 160px;
+    width: 48px;
+    height: 39px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/right_dpad.png?v=4") center / 48px 39px no-repeat;
 }
 
 .custom .bumper.left {

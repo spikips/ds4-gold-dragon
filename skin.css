@@ -20,13 +20,13 @@
 }
 
 .custom .stick.left {
-    left: 213px;
-    top: 229px;
+    left: 218px;
+    top: 233px;
 }
 
 .custom .stick.right {
     left: 474px;
-    top: 229px;
+    top: 233px;
 }
 
 .custom .button,
@@ -39,72 +39,72 @@
 }
 
 .custom .y {
-    left: 618px;
-    top: 112px;
+    left: 616px;
+    top: 103px;
     width: 48px;
     height: 48px;
     background: url("https://spikips.github.io/ds4-gold-dragon/triangle_button.png") center / 48px 48px no-repeat;
 }
 
 .custom .b {
-    left: 672px;
-    top: 166px;
+    left: 670px;
+    top: 155px;
     width: 48px;
-    height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/circle_button.png") center / 48px 48px no-repeat;
+    height: 49px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/circle_button.png") center / 48px 49px no-repeat;
 }
 
 .custom .a {
-    left: 624px;
-    top: 214px;
-    width: 49px;
+    left: 616px;
+    top: 207px;
+    width: 48px;
     height: 49px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/cross_button.png") center / 49px 49px no-repeat;
+    background: url("https://spikips.github.io/ds4-gold-dragon/cross_button.png") center / 48px 49px no-repeat;
 }
 
 .custom .x {
-    left: 558px;
-    top: 166px;
+    left: 561px;
+    top: 155px;
     width: 48px;
-    height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/rectangle_button.png") center / 48px 48px no-repeat;
+    height: 49px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/rectangle_button.png") center / 48px 49px no-repeat;
 }
 
 .custom .face.up {
-    left: 141px;
-    top: 116px;
-    width: 39px;
-    height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/up_dpad.png") center / 39px 48px no-repeat;
+    left: 131px;
+    top: 117px;
+    width: 40px;
+    height: 49px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/up_dpad.png") center / 40px 49px no-repeat;
 }
 
 .custom .face.down {
-    left: 140px;
-    top: 196px;
-    width: 39px;
-    height: 48px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/bottom_dpad.png?v=4") center / 39px 48px no-repeat;
+    left: 130px;
+    top: 193px;
+    width: 41px;
+    height: 49px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/bottom_dpad.png?v=4") center / 41px 49px no-repeat;
 }
 
 .custom .face.left {
     left: 87px;
-    top: 160px;
-    width: 48px;
-    height: 39px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/left_dpad.png?v=4") center / 48px 39px no-repeat;
+    top: 159px;
+    width: 49px;
+    height: 40px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/left_dpad.png?v=4") center / 49px 40px no-repeat;
 }
 
 .custom .face.right {
-    left: 179px;
-    top: 160px;
-    width: 48px;
+    left: 165px;
+    top: 159px;
+    width: 49px;
     height: 39px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/right_dpad.png?v=4") center / 48px 39px no-repeat;
+    background: url("https://spikips.github.io/ds4-gold-dragon/right_dpad.png?v=4") center / 49px 39px no-repeat;
 }
 
 .custom .bumper.left {
-    left: 126px;
-    top: 48px;
+    left: 117px;
+    top: 46px;
     width: 93px;
     height: 20px;
     background: url("https://spikips.github.io/ds4-gold-dragon/l1.png") center / 93px 20px no-repeat;
@@ -113,9 +113,9 @@
 .custom .bumper.right {
     left: 585px;
     top: 47px;
-    width: 94px;
-    height: 20px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/r1.png") center / 94px 20px no-repeat;
+    width: 96px;
+    height: 19px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/r1.png") center / 96px 19px no-repeat;
 }
 
 .custom .back {

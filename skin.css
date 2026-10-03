@@ -8,6 +8,10 @@
     display: none;
 }
 
+.custom.disconnected .sticks {
+    display: block;
+}
+
 .custom .stick {
     position: absolute;
     width: 100px;
@@ -16,13 +20,13 @@
 }
 
 .custom .stick.left {
-    left: 348px;
-    top: 242px;
+    left: 213px;
+    top: 229px;
 }
 
 .custom .stick.right {
-    left: 478px;
-    top: 248px;
+    left: 474px;
+    top: 229px;
 }
 
 .custom .button {
@@ -33,7 +37,7 @@
 
 .custom .y {
     left: 620px;
-    top: 156px;
+    top: 110px;
     background: url("https://spikips.github.io/ds4-gold-dragon/triangle_button.png") center / 40px 40px no-repeat;
     opacity: 0;
 }

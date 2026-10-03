@@ -1,0 +1,43 @@
+.controller.custom {
+    background: url("https://spikips.github.io/ds4-gold-dragon/base.png") no-repeat;
+    width: 806px;
+    height: 598px;
+}
+
+.custom.disconnected div {
+    display: none;
+}
+
+.custom .stick {
+    position: absolute;
+    width: 100px;
+    height: 99px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/thumbstick.png") center / 100px 99px no-repeat;
+}
+
+.custom .stick.left {
+    left: 348px;
+    top: 242px;
+}
+
+.custom .stick.right {
+    left: 478px;
+    top: 248px;
+}
+
+.custom .button {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+
+.custom .y {
+    left: 620px;
+    top: 156px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/triangle_button.png") center / 40px 40px no-repeat;
+    opacity: 0;
+}
+
+.custom .y.pressed {
+    opacity: 1;
+}

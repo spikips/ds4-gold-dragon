@@ -154,8 +154,8 @@
 .controller.custom::after {
     content: "@asd";
     position: absolute;
-    left: 431px;
-    top: 285px;
+    left: 346px;
+    top: 334px;
     z-index: 3;
     font-family: "Palatino Linotype", Palatino, Georgia, serif;
     font-weight: 700;

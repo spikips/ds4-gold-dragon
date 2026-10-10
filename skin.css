@@ -151,6 +151,22 @@
     background: url("https://spikips.github.io/ds4-gold-dragon/r2.png?v=6") center / 134px 86px no-repeat;
 }
 
+.controller.custom::after {
+    content: "@asd";
+    position: absolute;
+    left: 488px;
+    top: 368px;
+    z-index: 3;
+    font-family: "Palatino Linotype", Palatino, Georgia, serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 0.06em;
+    color: #f3d078;
+    text-shadow: 0 1px 0 #fff1c2, 0 1px 1px rgba(70, 40, 0, 0.85);
+    pointer-events: none;
+}
+
 .custom .a.pressed,
 .custom .b.pressed,
 .custom .x.pressed,

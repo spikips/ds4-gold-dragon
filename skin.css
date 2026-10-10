@@ -14,19 +14,19 @@
 
 .custom .stick {
     position: absolute;
-    width: 128px;
-    height: 126px;
-    background: url("https://spikips.github.io/ds4-gold-dragon/thumbstick.png") center / 128px 126px no-repeat;
+    width: 118px;
+    height: 118px;
+    background: url("https://spikips.github.io/ds4-gold-dragon/thumbstick.png") center / 118px 118px no-repeat;
 }
 
 .custom .stick.left {
-    left: 275px;
-    top: 436px;
+    left: 280px;
+    top: 440px;
 }
 
 .custom .stick.right {
-    left: 603px;
-    top: 436px;
+    left: 608px;
+    top: 440px;
 }
 
 .custom .button,
@@ -154,16 +154,16 @@
 .controller.custom::after {
     content: "@asd";
     position: absolute;
-    left: 488px;
-    top: 368px;
+    left: 452px;
+    top: 296px;
     z-index: 3;
     font-family: "Palatino Linotype", Palatino, Georgia, serif;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 37px;
     line-height: 1;
     letter-spacing: 0.06em;
-    color: #ffcc33;
-    text-shadow: 0 1px 0 #7a4e00, 0 0 2px rgba(255, 214, 90, 0.9);
+    color: #f3d078;
+    text-shadow: 0 1px 0 #fff1c2, 0 1px 1px rgba(70, 40, 0, 0.85);
     pointer-events: none;
 }
 

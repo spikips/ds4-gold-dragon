@@ -162,8 +162,8 @@
     font-size: 22px;
     line-height: 1;
     letter-spacing: 0.06em;
-    color: #f3d078;
-    text-shadow: 0 1px 0 #fff1c2, 0 1px 1px rgba(70, 40, 0, 0.85);
+    color: #ffcc33;
+    text-shadow: 0 1px 0 #7a4e00, 0 0 2px rgba(255, 214, 90, 0.9);
     pointer-events: none;
 }
 
